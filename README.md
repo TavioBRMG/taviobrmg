@@ -1,4 +1,4 @@
-## Ei! Luiz Otávio aqui
+## DESENVOLVEDOR
 <!--div align="center">
   <a href="https://github.com/taviobrmg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taviobrmg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,7 +19,6 @@
   ##
  
 <div>
- <a href="https://discordapp.com/users/9449" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luizotavio.ti@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/luizotavio-ti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
