@@ -13,12 +13,13 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right"  height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/44513087/210116777-47cc1c4d-2c40-44e0-b0c2-600005086a2d.png">
+  <!--img align="right"  height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/44513087/210116777-47cc1c4d-2c40-44e0-b0c2-600005086a2d.png"-->
 </div>
   
   ##
  
 <div>
+ <a href="https://discordapp.com/users/9449" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luizotavio.ti@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/luizotavio-ti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
