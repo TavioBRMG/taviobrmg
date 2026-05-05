@@ -29,7 +29,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCJDNTWQh13MPycqR2OtBHOA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://github.com/luizotavio-tiG?tab=followers" target="_blank">
+    <a href="https://github.com/luizotavio-ti?tab=followers" target="_blank">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
