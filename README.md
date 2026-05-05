@@ -33,7 +33,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/luizotavio-tiG?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/luizotavio-ti?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
   <a href="https://discordapp.com/users/9449" target="_blank">
@@ -53,7 +53,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -61,7 +61,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -69,7 +69,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -77,7 +77,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
@@ -85,7 +85,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="React"
     title="React" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
@@ -94,7 +94,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="Node"
     title="Node" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
           
@@ -103,7 +103,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="Next.js" 
     title="Next.js"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
@@ -111,7 +111,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
@@ -119,7 +119,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
@@ -127,7 +127,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="SASS" 
     title="SASS"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 <img 
@@ -135,7 +135,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="PHP" 
     title="PHP"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
@@ -144,7 +144,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="Codeigniter" 
     title="Codeigniter"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg"
 />
           
@@ -153,7 +153,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="JQuery" 
     title="JQuery"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
@@ -169,7 +169,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="Python" 
     title="Python"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
@@ -178,7 +178,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="Django" 
     title="Django"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
   />
 
@@ -187,7 +187,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="Java" 
     title="Java"
     width="30px" 
-    style="padding-right: 10px;"
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
@@ -196,7 +196,7 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="C++" 
     title="C++"
     width="30px" 
-    style="padding-right: 10px;"
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 />
 
@@ -205,9 +205,10 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="SQL" 
     title="SQL"
     width="30px" 
-    style="padding-right: 10px;"
+    style="padding-right: 10px; margin-bottom: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
+<br/>
 <br/>
 <br/>
 
