@@ -29,11 +29,11 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCJDNTWQh13MPycqR2OtBHOA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://github.com/TavioBRMG?tab=followers" target="_blank">
+    <a href="https://github.com/luizotavio-tiG?tab=followers" target="_blank">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/TavioBRMG?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/luizotavio-tiG?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
   <a href="https://discordapp.com/users/9449" target="_blank">
@@ -219,14 +219,12 @@ Filosofia de trabalho: <em>"Um bom sistema não é aquele que faz tudo, mas o qu
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=TavioBRMG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-umber-ten-75.vercel.app/api?username=luizotavio-ti&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TavioBRMG&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats-umber-ten-75.vercel.app/api/top-langs/?username=luizotavio-ti&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
